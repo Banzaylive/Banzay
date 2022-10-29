@@ -6,7 +6,7 @@ export default function Home() {
     <div className={styles.container}>
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js 13!</a>
+          Welcome to <a href="https://www.twitch.tv/banzay_live">Banzay.live !</a>
         </h1>
 
         <p className={styles.description}>
@@ -15,27 +15,27 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://beta.nextjs.org/docs" className={styles.card}>
-            <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js 13</p>
+          <a href="https://www.twitch.tv/banzay_live" className={styles.card}>
+            <h2>Le stream</h2>
+            <p>Viens on est bien. :)</p>
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
+            href="https://discord.gg/gArvnvJSmh"
             className={styles.card}
           >
-            <h2>Examples &rarr;</h2>
-            <p>Explore the Next.js 13 playground.</p>
+            <h2>Le Forum</h2>
+            <p>Rejoins le discord petit batard</p>
           </a>
 
           <a
-            href="https://vercel.com/templates/next.js/app-directory?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://www.youtube.com/channel/UC6DfPo5lMR5RU5AN2PPXrww"
             target="_blank"
             rel="noopener noreferrer"
             className={styles.card}
           >
-            <h2>Deploy &rarr;</h2>
-            <p>Deploy your Next.js site to a public URL with Vercel.</p>
+            <h2>Le Youtube Game</h2>
+            <p>Check des vidéos de qualité !</p>
           </a>
         </div>
       </main>
